@@ -1,0 +1,21 @@
+body{
+  background-image: url('img/logo1.jpg');
+}
+p{
+  width: 300px;
+  height: 110px;
+  background-color: aqua;
+}
+
+.satu{
+  overflow: scroll;
+  border: 10px dotted red;
+}
+.dua{
+  overflow: scroll;
+  border: 5px solid green;
+}
+.tiga{
+  overflow: scroll;
+  border: 15px dashed blue;
+}
